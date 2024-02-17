@@ -2,7 +2,7 @@
 
 Issue Tracker for https://hundredbullets.com
 
-Use [https://github.com/Silverware-Games/war-tainted-falls-issues/issues](https://github.com/Silverware-Games/Hundred-Bullets-Issues/issues) to submit an idea or a bug report. You should be signed into GitHub.
+Use [Hundred Bullets Issue Tracker](https://github.com/Silverware-Games/Hundred-Bullets-Issues/issues) to submit an idea or a bug report. You should be signed into GitHub.
 
 Rules:
 

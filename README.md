@@ -1,6 +1,8 @@
 # Hundred Bullets Issue Tracker
 
-Issue Tracker for https://hundredbullets.com
+Issue Tracker for https://hundredbullets.com Current things to improve and change in the game based on user feedback and @michaelplzno 's ideas.
+
+Game Tagline: "Confront the great doubt, reach enlightment, and dodge your own bullets in this puzzle SHMUP"
 
 Use [Hundred Bullets Issue Tracker](https://github.com/Silverware-Games/Hundred-Bullets-Issues/issues) to submit an idea or a bug report. You should be signed into GitHub.
 
@@ -12,5 +14,5 @@ Rules:
 * All vulnerabilities should be reported privately.
 * You must not use the Issue Tracker if you do not agree to any of the terms.
 
-Discord: https://discord.silverwaregames.com (#hundred-bullets)
+Discord: https://discord.silverwaregames.com
 

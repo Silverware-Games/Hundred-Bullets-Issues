@@ -2,7 +2,7 @@
 
 Public Issue Tracker for https://hundredbullets.com Current things to improve and change in the game based on user feedback and @michaelplzno 's ideas. If you have an issue with the game, feel free to add it here, or contact @michaelplzno and he will add it.
 
-Game Tagline: "Confront the great doubt, achieve enlightment, and dodge your own bullets in this puzzle SHMUP"
+Game Tagline: "Dodge your own bullets, confront the great doubt, master Zen, and reach enlightenment."
 
 Use [Hundred Bullets Issue Tracker](https://github.com/Silverware-Games/Hundred-Bullets-Issues/issues) to submit an idea or a bug report. You should be signed into GitHub.
 
